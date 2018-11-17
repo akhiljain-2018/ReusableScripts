@@ -1,0 +1,2 @@
+Click==7.0
+datadiff==2.0.0
